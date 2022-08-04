@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sethni</h1>
-- 📫 How to reach me **sethnibhagya67@gmail.com**
+
 - 👨‍💻 Check out my portfolio at [https://sethnibhagya67.wixsite.com/my-site-8](https://sethnibhagya67.wixsite.com/my-site-8)
 
 
