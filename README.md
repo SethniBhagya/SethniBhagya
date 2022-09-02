@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sethni</h1>
 
-- 👨‍💻 Check out my portfolio at [https://sethnibhagya67.wixsite.com/sethni](https://sethnibhagya67.wixsite.com/my-site-8)
+- 👨‍💻 Check out my portfolio at [https://sethnibhagya67.wixsite.com/sethni](https://sethnibhagya67.wixsite.com/sethni)
 
 
 
